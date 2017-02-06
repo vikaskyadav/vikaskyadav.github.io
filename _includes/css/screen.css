@@ -10,7 +10,7 @@ html, body {
 body {
   font-size: 16px;
   background-color: white;
-  color: #222222;
+  color: #212121;
   line-height: 24px;
   margin: 0;
   border-top: 7px solid {{ site.data.theme.highlight_color }};
@@ -98,7 +98,7 @@ ul.posts span {
 
 .site .footer {
   font-size: 80%;
-  color: #666;
+  color: #B2EBF2;
   border-top: 4px solid #eee;
   overflow: hidden;
 }
@@ -170,14 +170,14 @@ nav h1, nav h2 {
 
 .footer {
   font-size: 80%;
-  color: #666;
+  color: #212121;
   border-top: 4px solid #EEE;
   overflow: hidden;
 }
 
 .aside {
   font-size: 75%;
-  color: #666;
+  color: #212121;
 }
 
 #home h2 {

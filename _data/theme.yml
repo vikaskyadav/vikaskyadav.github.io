@@ -17,6 +17,8 @@ social:
   #gplus: 110552447039675960964
   #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
   #flickr: johndoe
+  quora: Vikas-Yadav-24
+  facebook: vikasuperman
 
 # "Hi, I'm _______"
 name: Vikas Yadav
@@ -30,4 +32,4 @@ google_analytics_key: UA-79247705-2
 show_disclaimer: true
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
-show_atom_feed: true
+#show_atom_feed: true
