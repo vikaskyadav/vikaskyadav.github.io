@@ -1,0 +1,35 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: 'teal'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: vikaskyadav
+  #bitbucket: philipj
+  #hacker_news: swanson
+  #stackexchange: 348619
+  #stackoverflow: 348619
+  twitter: donvikas
+  #facebook: zuck
+  #tumblr: animalygifs
+  linkedin: vikasuperman
+  #gplus: 110552447039675960964
+  #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
+  #flickr: johndoe
+  quora: Vikas-Yadav-24
+  facebook: vikasuperman
+
+# "Hi, I'm _______"
+name: Vikas Yadav
+email: vikasharry03@gmail.com
+tagline: "Front End software engineer."
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: UA-79247705-2
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: true
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+#show_atom_feed: true
